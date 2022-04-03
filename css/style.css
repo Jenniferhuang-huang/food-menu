@@ -1,0 +1,35 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Bitter";
+}
+
+.image{
+  width:150px;
+  height:150px;
+}
+
+.header{
+    height:200px;
+    background-image: linear-gradient(to right,rgb(58, 96, 115),rgb(22, 34, 42));
+    color:rgb(255,255,255);
+    text-align: center;  
+    padding-top: 80px;
+}
+h5,h4{
+    font-weight: bold;
+}
+h4{
+    text-align: center;  
+}
+.product {
+ float: left;
+width: 25%;
+height:280px;
+text-align: center;
+}
+#vue{
+    margin-right: 300px;
+    margin-left: 300px;
+}
